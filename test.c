@@ -5,5 +5,6 @@
 //awesome
 int main() {
 printf("Test String");
+printf("Holy hell it's working");
 return 0;
 }
