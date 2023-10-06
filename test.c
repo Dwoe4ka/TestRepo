@@ -4,7 +4,7 @@
 #include<string.h>
 //awesome
 int main() {
-printf("Test String");
-printf("Holy hell it's working");
+printf("Slava Ukraini\n");
+printf("Geroyam slava");
 return 0;
 }
